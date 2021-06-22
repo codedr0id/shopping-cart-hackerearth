@@ -1,0 +1,27 @@
+.item-list-container {
+  width: 800px;
+  margin-right: 1rem;
+}
+
+.header {
+  text-align: left;
+  padding: 0 1rem;
+  margin-bottom: 1rem;
+}
+
+.column-header {
+  display: flex;
+  padding: 1rem 1rem;
+  justify-content: space-evenly;
+}
+
+.column-header > h4 {
+  flex-basis: 100px;
+  width: 100%;
+}
+
+.details-header {
+  flex-basis: 400px;
+  /* text-align: left; */
+  margin-right: 420px;
+}

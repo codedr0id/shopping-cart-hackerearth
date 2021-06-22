@@ -1,0 +1,30 @@
+.price-details-container {
+  width: 300px;
+  box-shadow: 1px 1px 5px #888888;
+  border: 1px solid #888888;
+}
+
+.price-details-container > h2 {
+  padding: 1rem;
+}
+
+.space-between {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.highlight {
+  background: #efeeef;
+}
+
+.reset {
+  align-items: center;
+  margin: 2rem 7rem;
+  background: lightblue;
+  border: none;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  outline: none;
+  cursor: pointer;
+}
